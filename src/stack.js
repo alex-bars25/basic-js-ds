@@ -13,7 +13,7 @@ const { NotImplementedError } = require('../lib');
  *
  */
 class Stack {
-  constructor () {
+  constructor() {
     this.stack = [];
   }
 
